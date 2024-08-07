@@ -219,7 +219,9 @@
 		}
 	}
 
-	--rating-size: 16px;
+	& {
+		--rating-size: 16px;
+	}
 }
 
 ///

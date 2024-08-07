@@ -13,7 +13,9 @@ button.OSFillParent {
 			pointer-events: none;
 		}
 
-		display: inline-block;
+		& {
+			display: inline-block;
+		}
 	}
 }
 
